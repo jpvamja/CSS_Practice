@@ -1,0 +1,16 @@
+.container{
+    height: 150px;
+    width: 300px;
+    background-color: gray;
+    border: 5px black dotted;
+    margin: 2em 20px 1em 40px;
+    padding: 1em;
+}
+.divs{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+}
